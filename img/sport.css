@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+body{
+    background-color: #779ecb;
+}
+
+.h1__ti{
+    text-align: center;
+}
+    
+
+
+.sto{
+    color: rgb(0, 68, 255);
+}
+
+.div{
+
+display: flex;
+}
+.container-link{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    border: 2px solid #0d33b3;
+    width: 100px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight:650;
+    padding: 7.1px 0;
+    margin-top: 15vh;
+    text-decoration: none;
+    color: #F6F6F6;
+    font-family: 'Montserrat', sans-serif;
+    color:#000000 ;
+
+}
+
+.h4{
+
+}
+
+
